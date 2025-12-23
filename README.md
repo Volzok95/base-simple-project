@@ -21,6 +21,6 @@ Simple project built for Base ecosystem
 ## Deployed Contract
 
 - Network: Base Mainnet
-- Contract address: 0xf8e81D47203A594245E36C48e151709F0C19fBe8
+- Contract address: 0x32866cda41051031ad29fc7b876848C434d4B78a
 - Deployment tool: Remix IDE
 - Wallet: Rabby Wallet
